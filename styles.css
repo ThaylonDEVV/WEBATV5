@@ -1,0 +1,15 @@
+.display-6{
+    font-family:'Times New Roman', Times, serif;
+}
+.carousel-inner {
+    height: 400px; }
+
+    .carousel-item img {
+        height: 100%; 
+        width: auto; 
+      }
+
+      .video-container {
+        border: 10px solid #ccc; /* Adicione a borda do tamanho do vídeo com a cor desejada */
+        margin: 10px; /* Adicione margem para o espaçamento entre os vídeos */
+      }
